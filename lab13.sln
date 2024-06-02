@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab13", "lab13\lab13.csproj", "{41C4552D-46C2-41F8-9970-5CA7EEB2D628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiLibrary", "EmojiLibrary\EmojiLibrary.csproj", "{C1258844-C770-45AD-8165-7E3D7E8EFE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B500CD1C-4A9A-4BB0-9BBE-F12A3A85A1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C4552D-46C2-41F8-9970-5CA7EEB2D628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C4552D-46C2-41F8-9970-5CA7EEB2D628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C4552D-46C2-41F8-9970-5CA7EEB2D628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C4552D-46C2-41F8-9970-5CA7EEB2D628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1258844-C770-45AD-8165-7E3D7E8EFE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1258844-C770-45AD-8165-7E3D7E8EFE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1258844-C770-45AD-8165-7E3D7E8EFE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1258844-C770-45AD-8165-7E3D7E8EFE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B500CD1C-4A9A-4BB0-9BBE-F12A3A85A1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B500CD1C-4A9A-4BB0-9BBE-F12A3A85A1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B500CD1C-4A9A-4BB0-9BBE-F12A3A85A1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B500CD1C-4A9A-4BB0-9BBE-F12A3A85A1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5DA93E-7DB9-4796-A33C-0708885C5762}
+	EndGlobalSection
+EndGlobal
